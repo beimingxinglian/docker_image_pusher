@@ -8,3 +8,4 @@ xhofe/alist:latest
 postgres:14
 atlassian/confluence
 atlassian/confluence:8.3.0
+v2raya_images
