@@ -1,11 +1,5 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-
-postgres:14
-atlassian/confluence
-atlassian/confluence:8.3.0
-v2raya_images
+--platform=linux/x86_64 nginx
+--platform=linux/x86_64 postgres:14
+--platform=linux/x86_64 atlassian/confluence
+--platform=linux/x86_64 atlassian/confluence:8.3.0
+--platform=linux/x86_64 v2raya_images
