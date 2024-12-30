@@ -2,4 +2,4 @@
 --platform=linux/x86_64 postgres:14
 --platform=linux/x86_64 atlassian/confluence
 --platform=linux/x86_64 atlassian/confluence:8.3.0
---platform=linux/x86_64 atlassian/confluence:centos
+--platform=linux/x86_64 atlassian/confluence:datacenter 
