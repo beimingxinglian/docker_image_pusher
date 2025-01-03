@@ -1,5 +1,4 @@
 --platform=linux/x86_64 nginx
 --platform=linux/x86_64 postgres:14
 --platform=linux/x86_64 atlassian/confluence
---platform=linux/x86_64 atlassian/confluence:9.2
 --platform=linux/x86_64 atlassian/confluence:8.9.8
