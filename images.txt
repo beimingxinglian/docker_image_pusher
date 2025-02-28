@@ -1,8 +1,12 @@
 --platform=linux/x86_64 nginx:latest
 --platform=linux/x86_64 postgres:14
+--platform=linux/x86_64 mysql:8.0.22
+--platform=linux/x86_64 atlassian/jira-software:8.16.1
 --platform=linux/x86_64 atlassian/confluence
 --platform=linux/x86_64 atlassian/confluence:9.2
 --platform=linux/x86_64 atlassian/confluence:8.9.8
+--platform=linux/x86_64 
+--platform=linux/x86_64 atlassian/ubuntu:22.04
 --platform=linux/x86_64 atlassian/ubuntu:22.04
 nginx:latest
 postgres:14
