@@ -6,7 +6,6 @@
 --platform=linux/x86_64 atlassian/confluence:9.2
 --platform=linux/x86_64 atlassian/confluence:8.9.8
 --platform=linux/x86_64 atlassian/ubuntu:22.04
---platform=linux/x86_64 atlassian/ubuntu:22.04
 nginx:latest
 postgres:14
 confluence:9.2
