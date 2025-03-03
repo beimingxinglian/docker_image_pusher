@@ -7,5 +7,5 @@
 --platform=linux/x86_64 atlassian/confluence:9.2
 --platform=linux/x86_64 atlassian/confluence:8.9.8
 --platform=linux/x86_64 ubuntu:22.04
-
+--platform=linux/x86_64 jira-core:9.4.0-jdk11-1.0
 registry.cn-shenzhen.aliyuncs.com/handsfree/certd:latest
