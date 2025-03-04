@@ -1,10 +1,11 @@
 --platform=linux/x86_64 nginx:latest
 --platform=linux/x86_64 postgres:14
+--platform=linux/x86_64 mysql:latest
 --platform=linux/x86_64 mysql:8.0.22
 --platform=linux/x86_64 mysql:8.0.31
 --platform=linux/x86_64 atlassian/jira-core:9.4.0
---platform=linux/x86_64 atlassian/jira-core
---platform=linux/x86_64 atlassian/jira-software
+--platform=linux/x86_64 atlassian/jira-core:latest
+--platform=linux/x86_64 atlassian/jira-software:latest
 --platform=linux/x86_64 atlassian/confluence
 --platform=linux/x86_64 atlassian/confluence:9.2
 --platform=linux/x86_64 atlassian/confluence:8.9.8
