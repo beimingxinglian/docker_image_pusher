@@ -10,5 +10,7 @@
 --platform=linux/x86_64 atlassian/confluence:9.2
 --platform=linux/x86_64 atlassian/confluence:8.9.8
 --platform=linux/x86_64 ubuntu:22.04
-
+--platform=linux/x86_64 lxerxa/actionview:latest
+--platform=linux/x86_64 lxerxa/actionviewnginx:latest
+--platform=linux/x86_64 lxerxa/actionviewdb:latest
 registry.cn-shenzhen.aliyuncs.com/handsfree/certd:latest
