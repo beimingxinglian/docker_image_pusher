@@ -27,10 +27,10 @@
 # --platform=linux/arm64 atlassian/confluence
 # --platform=linux/arm64 atlassian/confluence:9.2
 # --platform=linux/arm64 atlassian/confluence:8.9.8
-# --platform=linux/arm64 ubuntu:22.04
+--platform=linux/arm64 ubuntu:22.04
 # --platform=linux/arm64 lxerxa/actionview:latest
 # --platform=linux/arm64 lxerxa/actionviewnginx:latest
 # --platform=linux/arm64 lxerxa/actionviewdb:latest
---platform=linux/arm64 node:latest
---platform=linux/arm64 mariadb:latest
+# --platform=linux/arm64 node:latest
+# --platform=linux/arm64 mariadb:latest
 # registry.cn-shenzhen.aliyuncs.com/handsfree/certd:latest
