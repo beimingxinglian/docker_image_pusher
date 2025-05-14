@@ -29,6 +29,7 @@
 # --platform=linux/arm64 atlassian/confluence:8.9.8
 # --platform=linux/arm64 ubuntu:22.04
 --plarform=linux/arm64 python:latest
+
 # --platform=linux/arm64 lxerxa/actionview:latest
 # --platform=linux/arm64 lxerxa/actionviewnginx:latest
 # --platform=linux/arm64 lxerxa/actionviewdb:latest
