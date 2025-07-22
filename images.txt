@@ -34,4 +34,4 @@
 # --platform=linux/arm64 lxerxa/actionviewdb:latest
 # --platform=linux/arm64 node:latest
 # --platform=linux/arm64 mariadb:latest
-# --platform=linux/arm64 certd:latest
+--platform=linux/arm64 certd:latest
