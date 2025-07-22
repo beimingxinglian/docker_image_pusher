@@ -15,7 +15,11 @@
 # --platform=linux/x86_64 lxerxa/actionviewdb:latest
 # --platform=linux/x86_64 node:latest
 # --platform=linux/x86_64 mariadb:latest
-# 
+# --platform=linux/arm64 lxerxa/actionview:latest
+# --platform=linux/arm64 lxerxa/actionviewnginx:latest
+# --platform=linux/arm64 lxerxa/actionviewdb:latest
+# --platform=linux/arm64 node:latest
+# --platform=linux/arm64 mariadb:latest
 # --platform=linux/arm64 nginx:latest
 # --platform=linux/arm64 postgres:14
 # --platform=linux/arm64 mysql:latest
@@ -27,11 +31,7 @@
 # --platform=linux/arm64 atlassian/confluence
 # --platform=linux/arm64 atlassian/confluence:9.2
 # --platform=linux/arm64 atlassian/confluence:8.9.8
- --platform=linux/arm64 python:latest
-
-# --platform=linux/arm64 lxerxa/actionview:latest
-# --platform=linux/arm64 lxerxa/actionviewnginx:latest
-# --platform=linux/arm64 lxerxa/actionviewdb:latest
-# --platform=linux/arm64 node:latest
-# --platform=linux/arm64 mariadb:latest
+--platform=linux/arm64 python:latest
 --platform=linux/arm64 certd:latest
+
+
