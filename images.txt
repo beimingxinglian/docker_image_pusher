@@ -31,7 +31,6 @@
 # --platform=linux/arm64 atlassian/confluence
 # --platform=linux/arm64 atlassian/confluence:9.2
 # --platform=linux/arm64 atlassian/confluence:8.9.8
---platform=linux/arm64 python:latest
---platform=linux/arm64 certd:latest
+--platform=linux/arm64 vaultwarden/server:latest
 
 
