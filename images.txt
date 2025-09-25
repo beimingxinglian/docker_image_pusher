@@ -41,4 +41,5 @@
 # --platform=linux/arm64 seafileltd/seasearch:1.0-latest
 # --platform=linux/arm64 seafileltd/notification-server:13.0-latest
 # --platform=linux/arm64 seafileltd/seafile-md-server:13.0-latest
+--platform=linux/arm64 mariadb:latest
 --platform=linux/arm64 seafileltd/seafile-ai:13.0-latest
